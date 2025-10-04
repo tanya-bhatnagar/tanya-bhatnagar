@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">  
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">  
 
 <p align="left" style="font-size:14px;">  
 I am a Computer Science student and Full-Stack Developer with hands-on experience in **React.js, Node.js, Express.js, SQL, and MongoDB**.  
