@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanya Bhatnagar</h1>
 <h3 align="center">I am a Computer Science student and Full-Stack Developer with hands-on experience in React.js, Node.js, Express.js, SQL, and MongoDB. I enjoy building dynamic and scalable web applications that provide seamless user experiences. Passionate about learning new technologies and constantly improving my skills to create innovative solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya-bhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="tanya-bhatnagar" /> </p>
 
